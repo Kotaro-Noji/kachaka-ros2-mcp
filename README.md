@@ -1,10 +1,5 @@
 # ROS MCP Server for Kachaka Robot Control
 
-![Static Badge](https://img.shields.io/badge/ROS-Available-green)
-![Static Badge](https://img.shields.io/badge/ROS2-Available-green)
-[![smithery badge](https://smithery.ai/badge/@lpigeon/ros-mcp-server)](https://smithery.ai/server/@lpigeon/ros-mcp-server)
-![Static Badge](https://img.shields.io/badge/License-MIT-blue)
-
 ## 概要
 
 このプロジェクトは、[Preferred Robotics](https://www.pfrobotics.jp/)が開発する自律移動ロボット「kachaka（カチャカ）」を、Claude DesktopなどのMCP対応クライアントから自然言語で制御するためのセットアップガイドです。
